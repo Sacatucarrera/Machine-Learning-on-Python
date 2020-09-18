@@ -8,3 +8,4 @@ Aquí encontrará los codigos usados en los siguientes vídeos de la lista de re
 - Evaluación de modelos: Enlace de Youtube: https://youtu.be/8gLnepJSxPI
 - Hiperparametrización de modelos: Enlace de Youtube: https://youtu.be/hpEjD49eGps
 - Extracción de características de texto: Enlace de Youtube: https://youtu.be/WXBZSINeMPs
+- ML en imágenes: Enlace de Youtube: https://youtu.be/FVnp8vvAZx8
