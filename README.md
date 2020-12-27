@@ -11,5 +11,6 @@ Aquí encontrará los codigos usados en los siguientes vídeos de la lista de re
 - ML en imágenes: Enlace de YouTube: https://youtu.be/FVnp8vvAZx8
 - Keras: Enlace de YouTube: https://youtu.be/JRm7ykpsBEs
 - Keras-Extracción texto: Enlace de YouTube: https://youtu.be/DmH8avdFkfo
-- Keras-Extracción imagenes: Enlace de Youtube: https://youtu.be/9i8DXA8u-mA
-- Keras-Clasificación texto: Enlace de Youtube: https://youtu.be/sHOhEZ5KXfI
+- Keras-Extracción imagenes: Enlace de YouTube: https://youtu.be/9i8DXA8u-mA
+- Keras-Clasificación texto: Enlace de YouTube: https://youtu.be/sHOhEZ5KXfI
+- Keras-RedNeuronal texto: Enlace de YouTube: https://youtu.be/ZR3KAOZQxDs
