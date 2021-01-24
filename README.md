@@ -16,3 +16,4 @@ Aquí encontrará los codigos usados en los siguientes vídeos de la lista de re
 - Keras-RedNeuronal texto: Enlace de YouTube: https://youtu.be/ZR3KAOZQxDs
 - Keras-Clasificación imágenes: Enlace de YouTube: https://youtu.be/sQULby08088
 - Keras-QueVeLaRed: Enlace de YouTube: https://youtu.be/fTc2V-I_Mow
+- Keras-Detector_De_Caras: Enlace de YouTube: 
